@@ -1,0 +1,8 @@
+source "https://rubygems.org"
+
+ruby '2.3.0'
+
+gem 'ascii-image', :git => 'https://github.com/Quasimonomial/ascii-image.git', :branch => 'handle_quantum_depth'
+gem 'rmagick'
+gem 'rainbow'
+gem 'pry'
